@@ -14,4 +14,5 @@ Data markers should reflect the magnitude of the earthquake in their color and s
 
 Image of visualization is below.
 
-Leaflet Challenge.PNG
+![Leaflet Challenge](https://user-images.githubusercontent.com/115082961/228842173-a075eefc-2ab4-4092-b166-0fa28ac22f58.PNG)
+
